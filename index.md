@@ -1,3 +1,8 @@
+---
+layout: default
+title: Postick Development log
+---
+
 # Postick Development log
 
 안녕하세요! 게임 개발자 **Postick**의 개발 일지입니다.
